@@ -91,7 +91,7 @@ export default function LoginPage() {
           </form>
 
           <p className="cm-login-hint">
-            Demo · código <strong>0001</strong> · clave <strong>1234</strong>
+            Demo · código <strong>EMP01</strong> · clave <strong>123456</strong>
           </p>
         </div>
       </div>
